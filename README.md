@@ -7,7 +7,7 @@ This repo features real use-cases of streaming application, ranging from operati
 Open an issue and let us know what you had in mind.
 Please make sure to add a vision, together with a data flow diagram, potential components and value to developers.
 
-# Want to contibute?
+# How to contribute?
 Easy - create a pull request with your contrituion. we would love to feature you here and have you join the fun!
 
 
