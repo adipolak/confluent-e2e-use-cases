@@ -1,4 +1,4 @@
-# Confluent End to End Horizontal Use-Cases on. 
+# Confluent End-to-End horizontal use-cases 
 Welcome to the practical and impactful world of data streaming with Confluent technologies. 
 This repo features real use-cases of streaming application, ranging from operational analytics, control planes and real time machine learning inferencing which would help you _put the pieces together_ of your applications! 
 
